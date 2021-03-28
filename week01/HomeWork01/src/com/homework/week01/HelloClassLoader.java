@@ -1,4 +1,4 @@
-package com.homework.work01;
+package com.homework.week01;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
